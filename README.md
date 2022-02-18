@@ -5,7 +5,7 @@
 
 <h3>🌱 I’m currently learning Node.js,React.js,...</h3>
 
-<h3>👯 I’m looking to collaborate on Open source community.</h3>
+<h3 I’m looking to collaborate on Open source community.</h3>
 
 <h3>👨‍💻 All of my projects are available at https://github.com/Kamikaze2898/</h3>
 
